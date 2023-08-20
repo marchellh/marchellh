@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua!
 
-<!--
-**marchellh/marchellh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Marchell**.
 
-Here are some ideas to get you started:
+Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saat ini saya sedang mengikuti program **Bangkit Academy** dengan peminatan **Android Learning Path**.
+
+Saya merupakan mahasiswa S1 **Unika Atma Jaya**.
+
+Jika kamu tertarik berkenalan, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/marchellhalim/) saya.
+
+Halaman ini hanya untuk percobaan.
